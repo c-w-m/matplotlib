@@ -42,7 +42,7 @@
 
 .. image:: https://matplotlib.org/_static/logo2.svg
 
-Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+`Matplotlib <https://github.com/matplotlib/matplotlib>`_ is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 
 Check out our `home page <https://matplotlib.org/>`_ for more information.
 
